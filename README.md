@@ -40,7 +40,8 @@ The script wenstern_grab_gun.py visualizes results from our proof-of-concept app
 Refer to Section 4.1 of our paper for further details.
 
 ## Download Data
-Data for all participants can be downloaded from the following link: [https://nas-graphics.unizar.es/s/AV_spatial_perception_RAW_data](https://nas-graphics.unizar.es/s/AV_spatial_perception_RAW_data)
+Data for all participants can be downloaded from the following link: [https://nas-graphics.unizar.es/s/AV_spatial_perception_RAW_data](https://nas-graphics.unizar.es/s/AV_spatial_perception_RAW_data).
+
 Note that scripts can be executed with pre-filtered and processed data, files `filtered_data.zip` and `data_application.zip`. 
 
 ## Cite
